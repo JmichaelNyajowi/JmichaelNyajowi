@@ -54,4 +54,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/jmichaelnyajowi/jmichaelnyajowi/output/github-snake.svg" />
 </picture>
 
-<p align="center"><sub><a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
